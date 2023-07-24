@@ -75,10 +75,10 @@
     "edge_type": "Ast"
   },
   "process": {
-    "epochs": 1000,
+    "epochs": 100,
     "patience": 10,
     "batch_size": 8,
     "dataset_ratio": 0.2,
-    "shuffle": true
+    "shuffle": false
   }
 }
